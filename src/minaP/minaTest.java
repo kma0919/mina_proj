@@ -8,7 +8,7 @@ public class minaTest {
 		
 		System.out.println("spring을 사랑하는 ggg fall_옹옹냐a 추가추가ncaa111");
 		
-		System.out.println("spring을 사랑하는 ggg fall_옹옹냐a 추가추가ncaa1111");
+		System.out.println("spring을 사랑하는 ggg fall_옹옹냐a 추가추가ncaa111111111");
 	}
 
 
