@@ -6,6 +6,8 @@ public class minaTest {
 		// TODO Auto-generated method stub
 		System.out.println("spring을 사랑하는 fall_옹옹냐abnnnnc");
 		
+		System.out.println("spring을 사랑하는 fall_옹옹냐abnnnnc1212");
+		
 		System.out.println("spring을 사랑하는 ggg fall_옹옹냐a 추가추가ncaa111");
 		
 		System.out.println("spring을 사랑하는 ggg fall_옹옹냐a 추가추가ncaa111111111");
